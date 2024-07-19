@@ -8,7 +8,8 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank"];
+"tank",
+"chainsaw"];
 
 var melee =
 ["sword",
@@ -39,7 +40,14 @@ var melee =
 "severed shark tail",
 "wooden sword"
 "battle axe",
-"severed robot arm"];
+"severed robot arm",
+"giant stuffed bear",
+"keyboard",
+"metal pipe",
+"plastic fish",
+"plank of wood",
+"hammer",
+"camera"];
 
 var itemsToFind =
 ["fruit tree",
@@ -178,7 +186,9 @@ var killCauseAndEffect =
 "frisbee",
 "decapitates",
 "tank",
-"murders"];
+"murders",
+"chainsaw",
+"saws in half"];
 
 var shelter =
 ["cave",
@@ -197,7 +207,12 @@ var shelter =
 "wooden shack",
 "burning house",
 "small castle",
-"giant ant hill"];
+"giant ant hill",
+"haunted house",
+"white van",
+"portapotty",
+"phone booth",
+""];
 
 var cornucopia =
 ["run",
@@ -220,7 +235,6 @@ var sponsor =
 "anthology of life-changing poems",
 "quenched and tempered steel",
 "VIP ticket to Tana Mojo concert",
-"Agrawal star",
 "Lapras",
 "diamond pickaxe",
 "Stalin mustache",
@@ -314,7 +328,8 @@ var injury =
 "develops stage 4 brain cancer",
 "gets necrosis",
 "gets forced into fall mentorship",
-"gets jumpscared"];
+"gets jumpscared",
+"gets dementia"];
 
 var injEffect =
 ["bow",
@@ -332,7 +347,9 @@ var injEffect =
 "assault rifle",
 "shoots and grazes",
 "sack full of rocks",
-"knocks out"];
+"knocks out",
+"chainsaw",
+"scars"];
 
 var variousDeaths =
 ["strangles",
@@ -369,7 +386,9 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge"];
+"accepts the Blue Whale challenge",
+"looks at a picture of SCP-096",
+"gets tickled to death by"];
 
 var doubleDeath =
 ["strangles",
@@ -379,7 +398,8 @@ var doubleDeath =
 "uses dank memes to kill",
 "fatally roundhouse kicks",
 "succumbs to lethal peer pressure from",
-"gets pushed off a mountain by"];
+"gets pushed off a mountain by",
+"gets tickled to death by"];
 
 var options =
 ["weapons",
